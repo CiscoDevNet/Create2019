@@ -11,4 +11,5 @@ To fill your requirements:
 
 Looking for inspiration? check the [Create18 repo](https://github.com/CiscoDevNet/Create2018).
 
-Others questions? feel free to ask in the [Workshop Speakers - Support](https://eurl.io/#HkwW5EBwV) space by entering your Webex Teams email.
+Others questions? contact us in the [Workshop Speakers - Support](https://eurl.io/#HkwW5EBwV) space by entering your Webex Teams email.
+Note: make sure to click one of the blue buttons "Webex is installed/not installed" as it's when the bot adds you to the space.
