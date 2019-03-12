@@ -1,6 +1,6 @@
 # DevNet Create 2019 Workshops Requirements 
 
-_Are you running a workshop at Create, please check the [entering my workshop requirements](./instructor.md) guide._
+_Are you running a workshop at Create, please check the [entering my workshop requirements](./Guide-for-Instructors.md) guide._
 
 
 Thanks for joining [Create 2019](https://developer.cisco.com/devnetcreate/2019/agenda).
