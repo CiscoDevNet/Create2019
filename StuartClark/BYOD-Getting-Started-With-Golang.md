@@ -23,7 +23,7 @@ In this workshop we start at day one for those whom want to get started with lea
 - Interfaces
 - Concurrency
 - Switch Statements
-- SD-WAN API Golang example 
+- SD-WAN API Golang example
 
 
 ## Prerequisites
