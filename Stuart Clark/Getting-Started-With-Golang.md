@@ -39,9 +39,12 @@ git installation - https://git-scm.com/download/win
 Or you can open the link to the GitRepo and use the URL's provided
 
 
-## About me
+## About Me
 
 Network Automation Developer Advocate for Cisco DevNet.
 I'm like Hugh Hefner... minus the mansion, the exotic cars, the girls, the magazine and the money. So basically, I have a robe.
 
 Find me here: [LinkedIn](https://www.linkedin.com/in/stuarteclark/) / [Twitter](https://twitter.com/bigevilbeard)
+
+See U at Create!
+https://developer.cisco.com/devnetcreate/2019/agenda
