@@ -27,4 +27,4 @@ I'm like Hugh Hefner... minus the mansion, the exotic cars, the girls, the magaz
 Find me here: [LinkedIn](https://www.linkedin.com/in/stuarteclark/) / [Twitter](https://twitter.com/bigevilbeard)
 
 See U at Create!
-https://www.devnetcreate.io/2018/pages/agenda/agenda.html
+https://www.devnetcreate.io/2019/pages/agenda/agenda.html

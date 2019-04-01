@@ -1,5 +1,4 @@
-# How to Teach an Old Prog New Tricks
-### ChatOps for Cisco Unified Communications Manager
+# Building Deep Learning Models on Google Cloud Platform with Keras
 
 This workshop does NOT offer a BYOD option.
 
