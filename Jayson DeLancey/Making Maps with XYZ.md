@@ -1,5 +1,7 @@
 # MAKING MAPS WITH XYZ 
 
+**You can use one of the provided laptops or bring your own device (BYOD) as long as you have installed the pre-requisites below.**
+
 Want to create a professional looking map with open source JavaScript libraries
 but don’t know how? In this workshop we’ll create four beautiful maps – seismic
 activity across the globe, air quality in Madrid, solar panels in Amsterdam,
