@@ -1,10 +1,6 @@
 # Getting Started with Golang
 
-## BYOD Requirements
-
-This workshop requires that you bring your own laptop.
-
-Please have the prerequisities installed before you attend the workshop.
+**You can use one of the provided laptops OR bring your own device (BYOD) as long as you have installed the pre-requisites below.**
 
 
 ## Objectives
